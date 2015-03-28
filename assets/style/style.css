@@ -16,3 +16,9 @@ body {
     background-color: pink;
     
 }
+
+div {
+   
+    border:1px red solid;
+    height:40px;
+}
