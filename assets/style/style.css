@@ -13,12 +13,4 @@ html {
 
 body {
     margin: 0; /* Remove default margin */
-    background-color: pink;
-    
-}
-
-div {
-   
-    border:1px red solid;
-    height:40px;
 }
