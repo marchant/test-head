@@ -13,4 +13,6 @@ html {
 
 body {
     margin: 0; /* Remove default margin */
+    background-color: pink;
+    
 }
